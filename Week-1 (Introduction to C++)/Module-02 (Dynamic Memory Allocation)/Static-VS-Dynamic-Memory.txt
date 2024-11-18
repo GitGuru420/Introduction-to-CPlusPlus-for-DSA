@@ -1,0 +1,9 @@
+Stack: 
+    # Static or Compile time memory.
+    # Limited memory.
+    # Auto memory clear.
+
+Heap:
+    # Dynamic or Runtime memory.
+    # More memory.
+    # User Instructed.
