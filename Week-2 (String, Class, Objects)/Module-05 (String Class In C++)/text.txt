@@ -1,0 +1,45 @@
+# Strings in C++
+1. Definition: Strings in C++ are objects that represents
+sequences of characters.
+
+2. Flexibility: They offer dynamic sizing and easy manipulation
+of text data.
+
+3. Efficiency: C++ strings provide optimized memory management
+and performance.
+
+# Built-in Functions of Strings
+1. size()
+--> Returns the number of characters in the string.
+
+2. clear()
+--> Delete all the characters in the string.
+
+3. empty()
+--> Check if the string is empty or not.
+
+4. append() 
+--> Adds characters to the end of the string.
+
+# Taking Input with Space
+1. getline()
+--> This functions reads a full line of text, including spaces.
+
+2. cin.get()
+--> Reads characters one by one, preserving whitespace.
+
+# Iterator in C++
+1. Definition: Iterators are objects that point to elements 
+in a container.
+
+2. Types: Input, output, forward, bidirectional, and 
+random-access iterators exist.
+
+3. Usage:
+--> They allow traversal and manipulation of container elements.
+
+# String Iterator
+1. begin() : Returns an iterator to the first character.
+2. end() : Returns an iterator to the position after the last character.
+3. rbegin() : Returns a reverse iterator to the last character.
+4. rend() : Returns a reverse iterator to the position begin first character.
