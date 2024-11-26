@@ -15,7 +15,7 @@ int main() {
 
     string s1;
     cout << "Enter your name: ";
-    cin >> s1;
+    cin >> s1;  // it's can not take input after space
     cout << "Hello, Mr. " << s1 << endl;
 
     return 0;
